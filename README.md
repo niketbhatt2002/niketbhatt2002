@@ -11,7 +11,7 @@
 ---
 
 ### 🧠 About Me
-I'm a graduate student in **Applied Computing** at the **University of Windsor**, passionate about building intelligent systems that blend **AI, Machine Learning, and Cloud Platforms**.
+I'm a graduate student in **Masters Applied Computing, Computer Science** at the **University of Windsor**, passionate about building intelligent systems that blend **AI, Machine Learning, and Cloud Platforms**.
 
 From real-time satellite forecasting to multilingual phishing detection, I enjoy solving impactful problems through code, models, and scalable architectures.
 
