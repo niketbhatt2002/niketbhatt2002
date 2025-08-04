@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Niket Bhatt</h1>
-<h3 align="center">Machine Learning Enthusiast | Full Stack Developer | Data Analyst | Cloud Explorer</h3>
+<h3 align="center">Machine Learning and Data Engineering Enthusiast | Software Engineer | Data Analyst | Cloud Explorer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
