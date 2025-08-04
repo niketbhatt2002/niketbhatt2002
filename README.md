@@ -57,6 +57,9 @@ A full-stack banking application with secure JWT-based authentication and scalab
 🔹 **[Phishing Detection Model](https://github.com/niketbhatt2002/Phishing-Detection-Model)**  
 NLP-based multilingual phishing classifier for emails and SMS (supports English, Hindi, Telugu).
 
+🔹 **[SecureChat] ()**
+A Java Based Secure Chating Application.
+
 ---
 
 ### 🏆 Certifications
