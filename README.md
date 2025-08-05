@@ -52,14 +52,16 @@ Here are a few highlights of what I’ve built:
 A character-level LSTM trained on the Shakespeare corpus to generate Elizabethan English poetry.
 
 🔹 **[Credify](https://github.com/niketbhatt2002/Credify)**  
-A full-stack banking application with secure JWT-based authentication and scalable architecture.
+A full-stack credit card based banking application with secure JWT-based authentication and scalable architecture.
 
 🔹 **[Phishing Detection Model](https://github.com/niketbhatt2002/Phishing-Detection-Model)**  
 NLP-based multilingual phishing classifier for emails and SMS (supports English, Hindi, Telugu).
 
 🔹 **[SecureChat](https://github.com/niketbhatt2002/SecureChat)**
+A Java Based Secure Chating Application which is build on a logic of Client-Server Architecture.
 
-A Java Based Secure Chating Application.
+🔹 **[BizzRipple]()**
+A Full-Stack Web App made with Python, FastAPI, Snowflake, ReactJS and NodeJS for deeper analytics of small busniess in Ontario, using LSTM, Logistic and Linear regression techinques on prediction model.
 
 ---
 
