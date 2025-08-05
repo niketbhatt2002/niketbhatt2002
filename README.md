@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 I'm a graduate student in **Masters Applied Computing, Computer Science** at the **University of Windsor**, passionate about building intelligent systems that blend **Software Engineering, Data Analytics, Data Engineering , AI, Machine Learning, and Cloud Platforms**.
-Actively looking for Co-Op or Internship role starting from Jan 2026
+**Actively looking for Co-Op or Internship role starting from Jan 2026**
 
 From real-time data driven projects to multilingual phishing detection, I enjoy solving impactful problems through code, models, and scalable architectures.
 
