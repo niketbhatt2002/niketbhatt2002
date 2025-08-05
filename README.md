@@ -60,7 +60,7 @@ NLP-based multilingual phishing classifier for emails and SMS (supports English,
 🔹 **[SecureChat](https://github.com/niketbhatt2002/SecureChat)**
 A Java Based Secure Chating Application which is build on a logic of Client-Server Architecture.
 
-🔹 **[BizzRipple]()**
+🔹 **[BizzRipple](https://github.com/niketbhatt2002/BizRipple)**
 A Full-Stack Web App made with Python, FastAPI, Snowflake, ReactJS and NodeJS for deeper analytics of small busniess in Ontario, using LSTM, Logistic and Linear regression techinques on prediction model.
 
 ---
