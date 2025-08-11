@@ -1,4 +1,4 @@
-## Hi there , please took a look on my profile👋
+## Hi there , please take a look on my profile👋
 
 
 <h1 align="center">Hi 👋, I'm Niket Bhatt</h1>
