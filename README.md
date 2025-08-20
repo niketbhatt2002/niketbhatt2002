@@ -48,6 +48,8 @@ From real-time data driven projects to multilingual phishing detection, I enjoy 
 
 ### 🚀 Projects
 Here are a few highlights of what I’ve built:
+🔹 **[Linux - Distributed File System](https://github.com/niketbhatt2002/Linux-Distributed-File-System)**  
+A System Architecture which allows Distibution of files with in a system using Socket Programming and TCP/IP protocol.
 
 🔹 **[BardNet](https://github.com/niketbhatt2002/BardNet-A-Character-Level-LSTM-for-Shakespearean-Text-Generation)**  
 A character-level LSTM trained on the Shakespeare corpus to generate Elizabethan English poetry.
