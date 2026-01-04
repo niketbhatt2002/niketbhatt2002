@@ -1,6 +1,5 @@
 ## Hi there , please take a look on my profile👋
 
-
 <h1 align="center">Hi 👋, I'm Niket Bhatt</h1>
 <h3 align="center">Machine Learning and Data Engineering Enthusiast | Software Engineer | Data Analyst | Cloud and CyberSecurity Explorer</h3>
  
