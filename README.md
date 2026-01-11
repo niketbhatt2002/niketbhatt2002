@@ -88,21 +88,23 @@ Full-stack analytics platform using FastAPI, Snowflake, React, and ML prediction
 ---
 
 <!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== GITHUB STATS ===================== -->
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=niketbhatt2002&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=niketbhatt2002&layout=compact&theme=radical&hide_border=true"
     height="160"
     alt="Top Languages"
   />
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=niketbhatt2002&theme=radical"
+    src="https://github-readme-streak-stats.vercel.app/?user=niketbhatt2002&theme=radical&hide_border=true"
     height="160"
     alt="GitHub Streak"
   />
 
 </div>
+
 
 ---
 
