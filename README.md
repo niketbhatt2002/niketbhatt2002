@@ -42,9 +42,9 @@ From real-time data driven projects to multilingual phishing detection, I enjoy 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![LoadRunner](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![JMeter](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Dynatrace](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![LoadRunner](https://img.shields.io/badge/-LoadRunner-007ACC?style=flat&logo=loadrunner&logoColor=white)
+![JMeter](https://img.shields.io/badge/-JMeter-262624?style=flat&logo=apachejmeter&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/-Dynatrace-000000?style=flat&logo=dynatrace&logoColor=white)
 
 ---
 
